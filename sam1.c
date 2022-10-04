@@ -14,7 +14,6 @@ int main()
     while (j < 26)
     {
         count = 0;
-        i = 0;
         while (str[i])
         {
             if (str[i] == 'a' + j)
